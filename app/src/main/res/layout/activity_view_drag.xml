@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_view_drag"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.dream.will.androiddemo.viewdraghelper.ViewDragActivity">
+
+
+    <com.dream.will.company_funny.widget.ViewDragLayout
+        android:id="@+id/viewDraglayout"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <LinearLayout
+            android:id="@+id/mContentLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/title"
+                android:gravity="center"
+                android:background="@color/colorAccent"
+                android:text=" heheheqin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/mBehindLayout"
+            android:layout_width="100dp"
+            android:orientation="horizontal"
+
+            android:layout_height="100dp">
+            <TextView
+                android:onClick="clickbutton1"
+                android:background="@color/colorPrimaryDark"
+                android:text="来打我呀"
+                android:layout_width="50dp"
+                android:layout_height="match_parent" />
+            <TextView
+                android:onClick="clickbutton2"
+                android:background="@color/colorAccent"
+                android:text="捉迷藏"
+                android:layout_width="50dp"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </com.dream.will.company_funny.widget.ViewDragLayout>
+
+</RelativeLayout>
