@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">activity_animation</string>
+    <string name="before_5_0">before 5.0</string>
+    <string name="after_5_0">after 5.0 分解</string>
+    <string name="after_5_0_1">after 5.0 滑动</string>
+    <string name="after_5_0_2">after 5.0 淡入淡出</string>
+    <string name="after_5_0_3">after 5.0 共享元素</string>
+</resources>

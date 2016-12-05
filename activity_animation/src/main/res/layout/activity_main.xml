@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.dream.will.activity_animation.MainActivity">
+
+    <Button
+        style="@style/but_style"
+        android:onClick="start1"
+        android:text="@string/before_5_0" />
+
+    <Button
+        style="@style/but_style"
+        android:onClick="start2"
+        android:text="@string/after_5_0" />
+
+    <Button
+        style="@style/but_style"
+        android:onClick="start3"
+        android:text="@string/after_5_0_1" />
+    <Button
+        style="@style/but_style"
+        android:onClick="start4"
+        android:text="@string/after_5_0_2" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+    <Button
+        style="@style/but_style"
+        android:layout_width="wrap_content"
+        android:onClick="start5"
+        android:transitionName="myButt"
+        android:text="@string/after_5_0_3" />
+
+
+</LinearLayout>
