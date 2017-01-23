@@ -1,7 +1,0 @@
-#Sat Nov 26 10:58:45 CST 2016
-base.0=/Users/jan/AndroidStudioProjects/AndroidDemo/samples/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc7f8e0c70f26648fb2b36ab1f525049dd728252
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/jan/AndroidStudioProjects/AndroidDemo/samples/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ff50ac97d89dc41567c1b5e4308cc1d2b3aa9229/classes.dex
-base.1=/Users/jan/AndroidStudioProjects/AndroidDemo/samples/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ff50ac97d89dc41567c1b5e4308cc1d2b3aa9229
-file.0=/Users/jan/AndroidStudioProjects/AndroidDemo/samples/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc7f8e0c70f26648fb2b36ab1f525049dd728252/classes.dex

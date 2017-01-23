@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidDemo.iml" filepath="$PROJECT_DIR$/AndroidDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/activity_animation/activity_animation.iml" filepath="$PROJECT_DIR$/activity_animation/activity_animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad_vertical_scroll_bar/ad_vertical_scroll_bar.iml" filepath="$PROJECT_DIR$/ad_vertical_scroll_bar/ad_vertical_scroll_bar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wandoujia_details_anim/wandoujia_details_anim.iml" filepath="$PROJECT_DIR$/wandoujia_details_anim/wandoujia_details_anim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water_ripple/water_ripple.iml" filepath="$PROJECT_DIR$/water_ripple/water_ripple.iml" />
     </modules>
   </component>
 </project>

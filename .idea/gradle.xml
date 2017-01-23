@@ -10,7 +10,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/activity_animation" />
+            <option value="$PROJECT_DIR$/ad_vertical_scroll_bar" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/wandoujia_details_anim" />
+            <option value="$PROJECT_DIR$/water_ripple" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

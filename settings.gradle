@@ -1,1 +1,1 @@
-include ':app', ':activity_animation'
+include ':app', ':activity_animation', ':ad_vertical_scroll_bar', ':water_ripple', ':wandoujia_details_anim'
